@@ -1,8 +1,8 @@
 <!--Header-->
-## Aloha {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/Hi.gif" width="29px"> Sathya Here 👨‍🎓
+## Aloha {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/sathyanarayana-k/sathyanarayana-k/blob/main/profile%20images/Hi.gif" width="29px"> Sathya Here 👨‍🎓
  <div>
    <p align="center">
-      <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/0.gif?raw=true"/>
+      <img src="https://github.com/sathyanarayana-k/sathyanarayana-k/blob/main/profile%20images/0.gif?raw=true"/>
    </p>
 </div>
 
@@ -13,7 +13,7 @@
   
 ## Technical Skills 🛠 
 
-<img align='left' src='https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/5.gif' width='250"'>
+<img align='left' src='https://github.com/sathyanarayana-k/sathyanarayana-k/blob/main/profile%20images/5.gif' width='250"'>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -42,7 +42,7 @@
 </a>
   
 <p align="center">
-  <img src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/updatingskills.gif?raw=true"/>
+  <img src="https://github.com/sathyanarayana-k/sathyanarayana-k/blob/main/profile%20images/updatingskills.gif?raw=true"/>
 </p>
 
 ##
@@ -50,7 +50,7 @@
 
 
 <div align="center">
-<a href="https://github.com/sathya-narayana" target="_blank">
+<a href="https://github.com/sathyanarayana-k" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/sathyakofficials/" target="_blank">
@@ -65,10 +65,10 @@
 
 <p align="center"> 
  <b> Can you break this count?</b><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathya-narayana&" alt="sathya-narayana" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathyanarayana-k&" alt="sathyanarayana-k" />
 </p>
 
- <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/SATHYA-NARAYANA/SATHYA-NARAYANA/blob/main/profile%20images/marquee.svg" />
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/sathyanarayana-k/sathyanarayana-k/blob/main/profile%20images/marquee.svg" />
 
 
 
